@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Connector J 6">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/MySQL/Connector J 6.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/MySQL/Connector J 6.0/src/build/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/MySQL/Connector J 6.0/src/demo/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/MySQL/Connector J 6.0/src/generated/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/MySQL/Connector J 6.0/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/MySQL/Connector J 6.0/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/MySQL/Connector J 6.0" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files (x86)/MySQL/Connector J 6.0" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files (x86)/MySQL/Connector J 6.0" recursive="false" type="SOURCES" />
+  </library>
+</component>
